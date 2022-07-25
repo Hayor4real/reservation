@@ -2,11 +2,11 @@ import room1 from './images/details-1.jpeg';
 import room2 from './images/details-2.jpeg';
 import room3 from './images/details-3.jpeg';
 import room4 from './images/details-4.jpeg';
-import img1 from './images/room-1.jpeg';
-import img2 from './images/room-2.jpeg';
+// import img1 from './images/room-1.jpeg';
+// import img2 from './images/room-2.jpeg';
 import img3 from './images/room-3.jpeg';
 import img4 from './images/room-4.jpeg';
-import img5 from './images/room-5.jpeg';
+// import img5 from './images/room-5.jpeg';
 import img6 from './images/room-6.jpeg';
 import img7 from './images/room-7.jpeg';
 import img8 from './images/room-8.jpeg';
@@ -45,7 +45,7 @@ export default [
         {
           fields: {
             file: {
-              url: img1,
+              url: 'https://cf.bstatic.com/static/img/theme-index/carousel_320x240/bg_resorts/6f87c6143fbd51a0bb5d15ca3b9cf84211ab0884.jpg',
             },
           },
         },
@@ -102,7 +102,7 @@ export default [
         {
           fields: {
             file: {
-              url: img2,
+              url: 'https://cf.bstatic.com/static/img/theme-index/carousel_320x240/bg_resorts/6f87c6143fbd51a0bb5d15ca3b9cf84211ab0884.jpg',
             },
           },
         },
@@ -223,7 +223,7 @@ export default [
         {
           fields: {
             file: {
-              url: room2,
+              url: 'https://cf.bstatic.com/xdata/images/hotel/square600/13125860.webp?k=e148feeb802ac3d28d1391dad9e4cf1e12d9231f897d0b53ca067bde8a9d3355&o=&s=1',
             },
           },
         },
@@ -273,7 +273,7 @@ export default [
         {
           fields: {
             file: {
-              url: img5,
+              url: 'https://cf.bstatic.com/xdata/images/hotel/max1280x900/232902339.jpg?k=3947def526b8af0429568b44f9716e79667d640842c48de5e66fd2a8b776accd&o=&hp=1',
             },
           },
         },
