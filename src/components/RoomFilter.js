@@ -23,7 +23,12 @@ const RoomsFilter = ({ rooms }) => {
     pets,
   } = context;
 
-  // get unique types
+  // get unique types]
+
+
+
+
+   
   let types = getUnique(rooms, 'type');
   // add all
   types = ['all', ...types];
